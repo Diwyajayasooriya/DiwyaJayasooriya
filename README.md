@@ -85,23 +85,10 @@ Java & Spring Boot for backend services, and static site generation (Jekyll) for
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diwyajayasooriya&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diwyajayasooriya&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diwyajayasooriya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:e21196@eng.pdn.ac.lk">Email</a> ·
+  <a href="mailto:youremail@example.com">Email</a> ·
   <a href="https://www.linkedin.com/">LinkedIn</a> ·
   <a href="https://github.com/Diwyajayasooriya">GitHub</a>
 </p>
