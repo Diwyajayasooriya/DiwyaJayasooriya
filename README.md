@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/diwyanjali-jayasooriya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="e21196@eng.pdn.ac.lk"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -88,8 +88,8 @@ Java & Spring Boot for backend services, and static site generation (Jekyll) for
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:youremail@example.com">Email</a> ·
-  <a href="https://www.linkedin.com/">LinkedIn</a> ·
+  <a href="mailto:e21196@eng.pdn.ac.lk">Email</a> ·
+  <a href="https://www.linkedin.com/in/diwyanjali-jayasooriya">LinkedIn</a> ·
   <a href="https://github.com/Diwyajayasooriya">GitHub</a>
 </p>
 
